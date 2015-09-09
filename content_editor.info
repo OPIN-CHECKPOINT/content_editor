@@ -8,7 +8,5 @@ version = 7.x-1.0
 dependencies[] = common
 
 ; Contributed Modules
-dependencies[] = quickedit
-dependencies[] = quickedit_tab
 dependencies[] = ckeditor
 dependencies[] = diff
